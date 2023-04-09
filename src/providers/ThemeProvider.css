@@ -1,0 +1,56 @@
+.theme-0 {
+  --key-front: 221, 14%, 31%;
+  --key-back: 30, 25%, 89%;
+  --key-active: 0, 0%, 100%;
+  --key-shadow: 28, 16%, 65%;
+  --key-front-alt: 0, 0%, 100%;
+  --key-back-alt: 225, 21%, 49%;
+  --key-shadow-alt: 224, 28%, 35%;
+  --key-active-alt: 224, 51%, 76%;
+  --keyboard-back: 223, 31%, 20%;
+  --screen-front: 0, 0%, 100%;
+  --screen-back: 224, 36%, 15%;
+  --body-back: 222, 26%, 31%;
+  --key-front-important: 0, 0%, 100%;
+  --key-back-important: 6, 63%, 50%;
+  --key-shadow-important: 6, 70%, 34%;
+  --key-active-important: 6, 93%, 67%;
+}
+
+.theme-1 {
+  --key-front: 60, 10%, 19%;
+  --key-back: 45, 7%, 89%;
+  --key-active: 0, 0%, 100%;
+  --key-shadow: 35, 11%, 61%;
+  --key-front-alt: 0, 0%, 100%;
+  --key-back-alt: 185, 42%, 37%;
+  --key-shadow-alt: 185, 58%, 25%;
+  --key-active-alt: 185, 41%, 56%;
+  --keyboard-back: 0, 5%, 81%;
+  --screen-front: 60, 10%, 19%;
+  --screen-back: 0, 0%, 93%;
+  --body-back: 0, 0%, 90%;
+  --key-front-important: 0, 0%, 100%;
+  --key-back-important: 25, 98%, 40%;
+  --key-shadow-important: 25, 99%, 27%;
+  --key-active-important: 25, 100%, 61%;
+}
+
+.theme-2 {
+  --key-front: 52, 100%, 62%;
+  --key-back: 268, 47%, 21%;
+  --key-shadow: 285, 91%, 52%;
+  --key-active: 268, 54%, 44%;
+  --key-front-alt: 0, 0%, 100%;
+  --key-back-alt: 281, 89%, 26%;
+  --key-active-alt: 280, 56%, 44%;
+  --key-shadow-alt: 285, 91%, 52%;
+  --keyboard-back: 268, 71%, 12%;
+  --screen-front: 52, 100%, 62%;
+  --screen-back: 268, 71%, 12%;
+  --body-back: 268, 75%, 9%;
+  --key-front-important: 198, 20%, 13%;
+  --key-back-important: 176, 100%, 44%;
+  --key-shadow-important: 177, 92%, 70%;
+  --key-active-important: 177, 100%, 79%;
+}
